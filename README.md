@@ -2,7 +2,7 @@
 
 # Overview
 This application sends a message via WhatsApp when combustible gas concentration in the air is too high. 
-Combustible gas concentration in the air is measured by the MQ 9 sensor and send to the ESP32 Devkit V1 board.
+Combustible gas concentration in the air is measured by the MQ 9 sensor and sent to the ESP32 Devkit V1 board.
 The MQ 9 sensor is powered by 5V DC from the Arduino Nano board.
 
 
